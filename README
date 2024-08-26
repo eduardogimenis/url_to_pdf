@@ -1,4 +1,4 @@
 A simple python script with a GUI to input filename and url
 The application then runs a script built on top of pdfkit, and saves the url as pdf to the specified folder path.
 
-![theGUI](https://github.com/eduardogimenis/url_to_pdf/blob/main/theGUI.png "theGUI")
+https://github.com/eduardogimenis/url_to_pdf/blob/main/theGUI.png?raw=true
