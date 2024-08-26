@@ -1,0 +1,2 @@
+A simple python script with a GUI to input filename and url
+The application then runs a script built on top of pdfkit, and saves the url as pdf to the specified folder path.
