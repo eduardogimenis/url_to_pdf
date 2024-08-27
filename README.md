@@ -1,5 +1,5 @@
-A simple python script with a GUI to input filename and url
-The application then runs a script built on top of pdfkit, and saves the url as pdf to the specified folder path.
+# URL to PDF Converter
+A simple Python script that converts a webpage URL to a PDF file.
 
 Here is how the application looks:
 ![GUI](https://github.com/eduardogimenis/url_to_pdf/blob/main/theGUI.png "theGUI")
