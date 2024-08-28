@@ -1,3 +1,0 @@
-([('url_to_pdf',
-   '/Users/eduardodecastilhosgimenis/Desktop/Everything/programming/python_programming/url_to_pdf/dist/url_to_pdf',
-   'EXECUTABLE')],)
